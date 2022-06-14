@@ -463,7 +463,7 @@ async def op(event):
         ] 
       ]         
     await event.reply("عذرا لا يمكنني العمل بالمجموعات بأمر من المطور اضغط علي الزر بالاسفل لإستخدامي بشكل صحيح", buttons=khatarsource)
-  elif o in z:
+
           
   else:
     legendbye = [
